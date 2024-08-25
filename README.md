@@ -1,4 +1,4 @@
-<h2 align="center">Meus Status</h2>
+<h1 align="center">Bem vindo ao meu perfil</h1>
 
 ###
 
@@ -12,12 +12,13 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Linguagens aprendidas</h2>
-
-###
-
+<table align="center">
+  <tr>
+  <th> <h2 align="center">Linguagens aprendidas</h2> </th>
+  <th> <h2 align="center">Sistemas Operacionais</h2> </th>
+  </tr>
+  <td>
+    <br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -31,28 +32,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+  </td>
+  <td>
+    <br clear="both">
 
-###
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+  </td>
+</table>
 
 <br clear="both">
 
-<h2 align="center">Sistemas Operacionais</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
+<br clear="both">
 
 <h2 align="center">Redes Socias</h2>
 
@@ -69,10 +62,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/>
 
 ###
