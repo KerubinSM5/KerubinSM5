@@ -40,7 +40,7 @@
 </div>
   </td>
 </table>
-<img src="https://github.com/KerubinSM5/KerubinSM5/blob/main/Terraelua%20-%20Copia.png" alt="Pixel Art" align="right" width="500">
+<img src="https://github.com/KerubinSM5/KerubinSM5/blob/main/Terraelua%20-%20Copia.png" alt="Pixel Art" align="right" width="450">
 
 
 
