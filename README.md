@@ -26,7 +26,7 @@
   <td> <!-- Aprendendo linguagens -->
     <br clear="both">
 <div align="left"> 
-  <img src="https://skillicons.dev/icons?i=pycharm,c,java,js,py,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=pycharm,c,java,js,py,linux,windows&perline=5" />
   
 </div>
   </td>
