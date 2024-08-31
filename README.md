@@ -62,7 +62,6 @@
 </div> 
 <hr>-->
 
-<!-- 
+ 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/>
--->
+<div align="center"><img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/> </div>
