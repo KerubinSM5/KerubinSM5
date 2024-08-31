@@ -64,4 +64,4 @@
 
  
 <br clear="both">
-<div align="center"><img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/> </div>
+<!--<div align="center"><img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/> </div> -->
