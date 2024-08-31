@@ -19,9 +19,9 @@
 
 <table align="center">
   <tr>
-    <th> <h2 align="center">Aprendendo linguagens</h2> </th>
-    <th> <h2 align="center">Linguagens aprendidas</h2> </th>
-    <th> <h2 align="center">Sistemas Operacionais</h2> </th>
+    <th> <h2 align="center">Languages and tools</h2> </th>
+    <!--<th> <h2 align="center">Linguagens aprendidas</h2> </th>
+    <th> <h2 align="center">Sistemas Operacionais</h2> </th>-->
   </tr>
   <td> <!-- Aprendendo linguagens -->
     <br clear="both">
@@ -35,13 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> <!-- JavaScript -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <!-- Python -->
-</div>
-  </td>
-  <td> <!-- linguagens aprendidas --> 
-  
-  </td>
-  <td>
-<div align="center"> <!-- Sistemas operacionais -->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
@@ -62,6 +55,7 @@
 </div> 
 <hr>-->
 
- 
+<!-- 
 <br clear="both">
-<!--<div align="center"><img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/> </div> -->
+<img src="https://raw.githubusercontent.com/KerubinSM5/KerubinSM5/output/snake.svg" alt="Snake animation" align="center"/>
+-->
