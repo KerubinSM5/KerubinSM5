@@ -17,15 +17,15 @@
 
 <hr>
 
-<table align="center">
+<table align="left">
   <tr>
-    <th> <h2 align="center">Languages and tools</h2> </th>
+    <th> <h2 align="center">Languages, tools and OS's</h2> </th>
     <!--<th> <h2 align="center">Linguagens aprendidas</h2> </th>
     <th> <h2 align="center">Sistemas Operacionais</h2> </th>-->
   </tr>
   <td> <!-- Aprendendo linguagens -->
     <br clear="both">
-<div align="center"> 
+<div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> <!-- C -->
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /> <!-- C#  
@@ -40,7 +40,9 @@
 </div>
   </td>
 </table>
-<hr>
+<img src="https://github.com/KerubinSM5/KerubinSM5/blob/main/Terraelua%20-%20Copia.png" alt="Pixel Art" align="right" width="500">
+
+
 
 
 <!-- <h2 align="center">Redes Sociais</h2>
