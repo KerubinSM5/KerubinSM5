@@ -17,7 +17,7 @@
 
 <hr>
 
-<table align="left">
+<table align="center">
   <tr>
     <th> <h2 align="center">Languages, tools and OS's</h2> </th>
     <!--<th> <h2 align="center">Linguagens aprendidas</h2> </th>
@@ -25,13 +25,14 @@
   </tr>
   <td> <!-- Aprendendo linguagens -->
     <br clear="both">
-<div align="left"> 
-  <img src="https://skillicons.dev/icons?i=pycharm,c,java,js,py,linux,windows&perline=5" />
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,py,linux,windows&perline=5" />
+</div>
   
 </div>
   </td>
 </table>
-<img src="https://github.com/KerubinSM5/KerubinSM5/blob/main/Terraelua%20-%20Copia.png" alt="Pixel Art" align="right" width="450">
+<!-- <img src="https://github.com/KerubinSM5/KerubinSM5/blob/main/Terraelua%20-%20Copia.png" alt="Pixel Art" align="right" width="450"> -->
 
 
 
